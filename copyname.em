@@ -9,7 +9,7 @@
     1.
        http://doblex.tistory.com/entry/source-insight-macro-%EC%A0%95%EB%A6%AC
     2.
-       http://www.sourceinsight.com/public/macros/PrintSelection.em
+       http://sajay.com/?p=59674340
 
     Author: vicjang@ucdavis.edu
 */
